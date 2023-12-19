@@ -15,3 +15,7 @@
  Console.WriteLine(product2);
  Console.WriteLine(product3);
 
+ double quotient = a/b;
+ Console.WriteLine(quotient);
+ 
+
