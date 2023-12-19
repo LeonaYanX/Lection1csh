@@ -1,0 +1,4 @@
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\DZlection1\obj\Debug\net7.0\DZlection1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\DZlection1\obj\Debug\net7.0\DZlection1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\DZlection1\obj\Debug\net7.0\DZlection1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\DZlection1\obj\Debug\net7.0\DZlection1.csproj.CoreCompileInputs.cache
