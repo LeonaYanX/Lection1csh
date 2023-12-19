@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\bin\Debug\net7.0\TaskHello.exe
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\bin\Debug\net7.0\TaskHello.deps.json
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\bin\Debug\net7.0\TaskHello.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\bin\Debug\net7.0\TaskHello.dll
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\bin\Debug\net7.0\TaskHello.pdb
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\obj\Debug\net7.0\TaskHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\obj\Debug\net7.0\TaskHello.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\obj\Debug\net7.0\TaskHello.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\obj\Debug\net7.0\TaskHello.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\obj\Debug\net7.0\TaskHello.dll
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\obj\Debug\net7.0\refint\TaskHello.dll
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\obj\Debug\net7.0\TaskHello.pdb
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\obj\Debug\net7.0\TaskHello.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\csharp1\Lection1csh\TaskHello\obj\Debug\net7.0\ref\TaskHello.dll
